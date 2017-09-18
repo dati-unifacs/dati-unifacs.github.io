@@ -6,9 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
-.icon-block {
-  padding: 0 15px;
+body {
+  background-color: #00485c;
 }
-.icon-block .material-icons {
-	font-size: inherit;
+
+.responsive-img {
+  width:200px;
+  height:200px;
+}
+
+i {
+  cursor: pointer;
 }
