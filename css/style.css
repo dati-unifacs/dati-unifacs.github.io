@@ -15,6 +15,11 @@ body {
   height:200px;
 }
 
-i {
+.margem {
   cursor: pointer;
+  margin-left: 10px;
+}
+
+.margem-top {
+  margin-top: 20px;
 }
